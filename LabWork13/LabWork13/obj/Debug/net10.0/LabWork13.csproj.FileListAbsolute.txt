@@ -1,0 +1,14 @@
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\bin\Debug\net10.0\LabWork13.exe
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\bin\Debug\net10.0\LabWork13.deps.json
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\bin\Debug\net10.0\LabWork13.runtimeconfig.json
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\bin\Debug\net10.0\LabWork13.dll
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\bin\Debug\net10.0\LabWork13.pdb
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.AssemblyInfoInputs.cache
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.AssemblyInfo.cs
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.csproj.CoreCompileInputs.cache
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.dll
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\refint\LabWork13.dll
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.pdb
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\LabWork13.genruntimeconfig.cache
+C:\Users\Злой Мухожуй\Downloads\LabWork13\LabWork13\obj\Debug\net10.0\ref\LabWork13.dll
