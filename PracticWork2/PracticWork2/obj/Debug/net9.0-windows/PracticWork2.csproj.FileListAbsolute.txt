@@ -1,0 +1,16 @@
+C:\temp\ispp55\PracticWork2\PracticWork2\bin\Debug\net9.0-windows\PracticWork2.exe
+C:\temp\ispp55\PracticWork2\PracticWork2\bin\Debug\net9.0-windows\PracticWork2.deps.json
+C:\temp\ispp55\PracticWork2\PracticWork2\bin\Debug\net9.0-windows\PracticWork2.runtimeconfig.json
+C:\temp\ispp55\PracticWork2\PracticWork2\bin\Debug\net9.0-windows\PracticWork2.dll
+C:\temp\ispp55\PracticWork2\PracticWork2\bin\Debug\net9.0-windows\PracticWork2.pdb
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.Autorization.resources
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.csproj.GenerateResource.cache
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.AssemblyInfoInputs.cache
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.AssemblyInfo.cs
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.csproj.CoreCompileInputs.cache
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.dll
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\refint\PracticWork2.dll
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.pdb
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\PracticWork2.genruntimeconfig.cache
+C:\temp\ispp55\PracticWork2\PracticWork2\obj\Debug\net9.0-windows\ref\PracticWork2.dll

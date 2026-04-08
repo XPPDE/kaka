@@ -1,0 +1,16 @@
+C:\temp\ispp55\PracticWork2\Task3.3\bin\Debug\net9.0-windows\Task3.3.exe
+C:\temp\ispp55\PracticWork2\Task3.3\bin\Debug\net9.0-windows\Task3.3.deps.json
+C:\temp\ispp55\PracticWork2\Task3.3\bin\Debug\net9.0-windows\Task3.3.runtimeconfig.json
+C:\temp\ispp55\PracticWork2\Task3.3\bin\Debug\net9.0-windows\Task3.3.dll
+C:\temp\ispp55\PracticWork2\Task3.3\bin\Debug\net9.0-windows\Task3.3.pdb
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3._3.Form1.resources
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.csproj.GenerateResource.cache
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.AssemblyInfoInputs.cache
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.AssemblyInfo.cs
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.csproj.CoreCompileInputs.cache
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.dll
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\refint\Task3.3.dll
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.pdb
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\Task3.3.genruntimeconfig.cache
+C:\temp\ispp55\PracticWork2\Task3.3\obj\Debug\net9.0-windows\ref\Task3.3.dll
